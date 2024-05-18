@@ -1,0 +1,18 @@
+[
+    {
+        "id_prompt":     "<new1>",
+        "st_prompt":     "<new4>",
+        "instance_data_dir":    "./data/jojo/jojo1"
+
+    },
+    {
+        "id_prompt":     "<new2>",
+        "st_prompt":     "<new4>",
+        "instance_data_dir":    "./data/jojo/jojo2"
+    },
+    {
+        "id_prompt":     "<new3>",
+        "st_prompt":     "<new4>",
+        "instance_data_dir":    "./data/jojo/jojo3"
+    }
+]
